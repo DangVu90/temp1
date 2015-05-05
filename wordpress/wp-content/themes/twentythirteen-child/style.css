@@ -1,0 +1,19 @@
+/*
+ Theme Name:   twentythirteen Child
+ Theme URI:    
+ Description:  Theme con của twentythirteen
+ Author:       Thái Dương
+ Author URI:   
+ Template:     twentythirteen
+ Version:      1.0.0
+*/
+@import url("../twentythirteen/style.css");
+
+/*==============================================*/
+.product-list{
+	padding-left: 0px;
+	list-style: none;
+}
+.product-list li{
+	margin-bottom: 10px;
+}
